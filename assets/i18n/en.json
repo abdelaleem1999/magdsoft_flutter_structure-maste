@@ -1,0 +1,34 @@
+{
+  "LoginView": {
+    "email": "Email",
+    "email_validation": "Email Is Empty",
+    "pass_validation": "password Is Empty",
+    "pass": "password",
+    "login_button": "Login",
+    "Register_button": "Register",
+    "traslation": "عربي"
+  },
+  "RegisterView": {
+    "name": "Full name",
+    "email": "Email",
+    "phone": "Phone",
+    "pass": "password",
+    "confirm_pass": "confirm password",
+    "login_button": "Login",
+    "Register_button": "Register",
+    "traslation": "عربي",
+    "email_validation": "Email Is Empty",
+    "pass_validation": "password Is Empty",
+    "phone_validation": "phone Is Empty",
+    "name_validation": "name Is Empty"
+  },
+  "Login_cubit": {
+    "user_not_exists": "user is not exists"
+  },
+  "User_profile": {
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "logOut": "logOut"
+  }
+}

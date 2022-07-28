@@ -1,0 +1,39 @@
+{
+  "LoginView": {
+    "email": "الايميل",
+    "email_validation": "الايميل فارغ",
+    "pass_validation": "كلمه المرور فارغه",
+    "pass": "كلمه المرور",
+    "login_button": "تسجيل الدخول",
+    "Register_button": "مستخدم جديد",
+    "traslation": "English"
+  },
+  "RegisterView": {
+    "name": "الاسم بالكامل",
+    "email": "الايميل",
+    "phone": "الهاتف",
+    "pass": "كلمه المرور",
+    "confirm_pass": " تاكيد كلمه المرور ",
+    "login_button": "تسجيل الدخول",
+    "Register_button": "مستخدم جديد",
+    "traslation": "English",
+    "email_validation": "الايميل فارغ",
+    "pass_validation": "كلمه المرور فارغه",
+    "phone_validation": "رقم الهاتف فارغ",
+    "name_validation": "الاسم فارغ"
+
+  },
+  "Login_cubit": {
+    "user_not_exists": "الايميل ليس موجود"
+  },
+  "User_profile": {
+    "name": "الاسم ",
+    "email": "الايميل",
+    "phone": "الرقم ",
+    "logOut": "تسجيل الخروج"
+
+  }
+
+
+
+}
